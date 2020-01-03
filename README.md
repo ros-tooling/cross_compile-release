@@ -1,3 +1,26 @@
+## cross_compile (eloquent) - 0.2.0-1
+
+The packages in the `cross_compile` repository were released into the `eloquent` distro by running `/home/ANT.AMAZON.COM/prajaktg/.local/bin/bloom-release -r eloquent -t eloquent cross_compile --edit` on `Fri, 03 Jan 2020 00:40:33 -0000`
+
+The `cross_compile` package was released.
+
+Version of package(s) in repository `cross_compile`:
+
+- upstream repository: https://github.com/ros-tooling/cross_compile.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## cross_compile (dashing) - 0.2.0-1
 
 The packages in the `cross_compile` repository were released into the `dashing` distro by running `/home/ANT.AMAZON.COM/prajaktg/.local/bin/bloom-release cross_compile -r dashing -d` on `Thu, 02 Jan 2020 23:28:53 -0000`
